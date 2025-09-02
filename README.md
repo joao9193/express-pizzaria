@@ -97,4 +97,4 @@ Este projeto possui um docker-compose na raiz do backend que sobe um contêiner 
 
 ## Autores
 
-- [github.com/Pedro-28](https://github.com/joao9193)
+- [github.com/Joao9193](https://github.com/joao9193)
